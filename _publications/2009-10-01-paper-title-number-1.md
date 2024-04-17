@@ -14,4 +14,5 @@ paperurl: 'http://rayxuan2000.github.io/files/paper1.pdf'
 citation: 'Ruize Xuan, "Basic analysis for base-band and pass-band transmission system," Proc. SPIE 12258, International Conference on Neural Networks, Information, and Communication Engineering (NNICE 2022), 122581P (15 July 2022); https://doi.org/10.1117/12.2640510'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+[Source](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12258/2640510/Basic-analysis-for-base-band-and-pass-band-transmission-system/10.1117/12.2640510.full?tab=ArticleLink
+)
