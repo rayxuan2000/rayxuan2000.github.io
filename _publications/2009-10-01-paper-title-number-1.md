@@ -9,7 +9,7 @@ mentioned, which is sort of different from the former, to directly map sending b
 2D and 3D space, related to the 4-ary system and 8-ary system respectively, is depicted to illustrate the point. At last, a
 potential application for pixel maps is considered to qualitatively underscore the error impact on the practical system.'
 date: 2022-07-15
-venue: 'NNICE 2022'
+venue: 'NNICE'
 paperurl: 'http://rayxuan2000.github.io/files/paper1.pdf'
 citation: 'Ruize Xuan, "Basic analysis for base-band and pass-band transmission system," Proc. SPIE 12258, International Conference on Neural Networks, Information, and Communication Engineering (NNICE 2022), 122581P (15 July 2022); https://doi.org/10.1117/12.2640510'
 ---
