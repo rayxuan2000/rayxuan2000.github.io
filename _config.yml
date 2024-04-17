@@ -12,7 +12,7 @@ title                    : "Ruize's website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rayxuan2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,10 +23,8 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "Ruize Xuan"
-  pronouns         : "he/his"  
-  bio              : "Graduate student, with more than one year experience in handling
-data sets using machine learning / deep learning, big data framework and data visualization tools to make data-driven
-decisions. Solid programming skills in Python and SQL and strong written communication and presentation skills."
+  pronouns         : "he/him"  
+  bio              : "Master student, ECE @ UCSD"
   location         : "San Diego, US"
   employer         : "University of California, San Diego"
   uri              : # URL
@@ -49,7 +47,7 @@ decisions. Solid programming skills in Python and SQL and strong written communi
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
