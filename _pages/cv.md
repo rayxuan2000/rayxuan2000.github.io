@@ -17,8 +17,12 @@ decisions. Solid programming skills in Python and SQL and strong written communi
 
 Education
 ======
-* M.S. in University of California San Diego, San Diego, US, 2023.10-2025.5 (expected)
-* B.S. in Southeast University, Nanjing, China, 2019.9-2023.6
+* University of California, San Diego    CA, US                                                     2023.10-2025.5 (expected)
+  * Master in Electrical and Computer Engineering                                                                  GPA: 3.6/4
+  * Core coursework: Programming for Data Analysis, Probability and Statistics for Data Science, Scientific Data Analysis and
+Statistical Learning, Introduction to Visual Learning, Web Mining and Recommender Systems
+* Southeast University    Jiangsu, China                                                                        2019.9-2023.6
+  * Bachelor in Information Engineering (with honored degree)                                                     GPA: 3.75/4
 
 Project experience
 ======
