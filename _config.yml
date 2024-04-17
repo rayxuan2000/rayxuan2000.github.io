@@ -8,10 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ruize Xuan / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "Graduate student in University of California, San Diego, with more than one year experience in handling
+data sets using machine learning / deep learning, big data framework and data visualization tools to make data-driven
+decisions. Solid programming skills in Python and SQL and strong written communication and presentation skills."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
