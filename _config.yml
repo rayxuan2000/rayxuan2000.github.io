@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ruize Xuan / Site Title"
+title                    : "Ruize's website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "photo.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Ruize Xuan"
   pronouns         : "he/his"  
   bio              : "Graduate student, with more than one year experience in handling
 data sets using machine learning / deep learning, big data framework and data visualization tools to make data-driven
