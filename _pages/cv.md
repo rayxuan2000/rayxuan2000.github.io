@@ -41,13 +41,17 @@ in production scenario.
 based ) for a large-scale dataset with resulting RMSE = 0.65.
   * Utilized above trained model and number k (top k liked) to recommend movies with random user id.
 
-* [Customer-Reviews-Analysis-and-Topic-Modeling](https://github.com/rayxuan2000/Customer-Reviews-Analysis-and-Topic-Modeling)
+* [Big Data Analysis on Los Angeles Crime](https://github.com/rayxuan2000/Big-Data-Analysis-on-Los-Angeles-Crime)
+  
+* [Time Series Forecasting with Yahoo Stock Price](https://github.com/rayxuan2000/Time-Series-Forecasting-with-Yahoo-Stock-Price)
+
+* [Customer Reviews Analysis and Topic Modeling](https://github.com/rayxuan2000/Customer-Reviews-Analysis-and-Topic-Modeling)
 
 * [Machine Learning Model Based CTR Prediction](https://github.com/rayxuan2000/Machine-Learning-Model-based-CTR-Prediction)
 
 * [E-commerce Fraud Detection and Risk Analysis](https://github.com/rayxuan2000/E-commerce-Fraud-Detection-and-Risk-Analysis)
 
-  
+* [ECE143_Project - San Diego police calls for service Analysis](https://github.com/rayxuan2000/UCSD_ECE143_project)
 Skills
 ======
 * Programming Languages
