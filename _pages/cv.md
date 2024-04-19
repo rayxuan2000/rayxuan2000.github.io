@@ -65,3 +65,8 @@ plotlib, Seaborn, Tableau), Big Data Analysis (SparkSQL, PySpark ), Deep Learnin
 
 Honor & Award
 ======
+
+Languages
+======
+TOEFL: 104(R27+L23+S26+W28)
+GRE: 324(V155+Q169+W3.5)
