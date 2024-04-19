@@ -41,29 +41,12 @@ in production scenario.
 based ) for a large-scale dataset with resulting RMSE = 0.65.
   * Utilized above trained model and number k (top k liked) to recommend movies with random user id.
 
-* NLP based Women’s E-Commerce Clothing Reviews
-  * Used women’s clothing E-Commerce dataset (data size = 23486) to parse out and analyzed text via Python.
-  * Split the corpus into positive and negative category based on exploratory data analysis (EDA), imported NLP tools
-with stopwords and prepossessed each document via tokenization and stemming.
-  * Implemented term frequency- inverse document frequency (TF-IDF) in bigram manner and trained K-Means
-Clustering method (K = 5).
-  * Performed Latent Dirichlet Allocation (LDA) method for topic modeling (topic number = 5).
+* [Customer-Reviews-Analysis-and-Topic-Modeling](https://github.com/rayxuan2000/Customer-Reviews-Analysis-and-Topic-Modeling)
 
-* Machine Learning Model Based CTR Prediction
-  * Used advertisement CTR(Click through rate) data sets to predict whether an advertisement will be clicked after each
-impression via Python.
-  * Utilized EDA and visualization to explore data patterns, along with data cleaning.
-  * Performed frequency encoding, data split and standardization before model training.
-  * Built and trained logistic regression, k-nearest-neighbors, random forest and XGBoost with 5-fold cross validation,
-fine-tuned parameters in regularization term and attained best F1 score = 0.91.
+* [Machine Learning Model Based CTR Prediction](https://github.com/rayxuan2000/Machine-Learning-Model-based-CTR-Prediction)
 
-* E-commerce Fraud Detection and Processing
-  * Used E-commerce company transaction data sets (data size= 138376), built machine learning solution and gained insights
-to mimimize enterprise fraud losses via Python.
-  * Identified potential fraud country information based on ip address and reduce the look-up time by 22\%
-  * Utilized feature engineering, built logistic regression and random forest model with and without SMOTE (Synthetic
-Minority Oversampling Technique) method on minority set, performed parameter tuning, increased recall score by
-20\% , and analyzed fraud characteristics by presenting feature importance.
+* [E-commerce Fraud Detection and Risk Analysis](https://github.com/rayxuan2000/E-commerce-Fraud-Detection-and-Risk-Analysis)
+
   
 Skills
 ======
