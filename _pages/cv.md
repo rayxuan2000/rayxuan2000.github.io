@@ -18,11 +18,11 @@ decisions. Solid programming skills in Python and SQL and strong written communi
 Education
 ======
 * University of California, San Diego    CA, US                                                     2023.9-2025.5 (expected)
-  * Master in Electrical and Computer Engineering                                                                  GPA: 3.6/4
+  * Master in Electrical and Computer Engineering                                                               GPA: 3.6/4
   * Core coursework: Programming for Data Analysis, Probability and Statistics for Data Science, Scientific Data Analysis and
 Statistical Learning, Introduction to Visual Learning, Web Mining and Recommender Systems
-* Southeast University    Jiangsu, China                                                                        2019.8-2023.6
-  * Bachelor in Information Engineering (with honored degree)                                                     GPA: 3.75/4
+* Southeast University    Jiangsu, China                                                                      2019.8-2023.6
+  * Bachelor in Information Engineering (with honored degree)                                                   GPA: 3.75/4
 
 Project experience
 ======
@@ -87,14 +87,18 @@ Skills
 
 Honor & Award
 ======
-Presidential Fellowship in 2020-2021 Academic Year, SEU (top 7.3%) 10/2021
-Finalist Award in Mathematical Contest in Modeling (MCM) (top 1.09%)	02/2021
-Title of “Merit Student” in 2019-2020, 2020-2021 Academic Year, SEU	12/2020&12/2021
-Second Prize in the Eighth E-commerce Innovation and Entrepreneurship Challenge Competition, SEU	05/2021
-Second Prize in 2020 National English Competition for College Students  	11/2020
+* Presidential Fellowship in 2020-2021 Academic Year, SEU (top 7.3%) 10/2021
+
+* Finalist Award in Mathematical Contest in Modeling (MCM) (top 1.09%)	02/2021
+  
+* Title of “Merit Student” in 2019-2020, 2020-2021 Academic Year, SEU	12/2020&12/2021
+
+* Second Prize in the Eighth E-commerce Innovation and Entrepreneurship Challenge Competition, SEU	05/2021
+
+* Second Prize in 2020 National English Competition for College Students  	11/2020
 
 Languages
 ======
-TOEFL: 104 (R27+L23+S26+W28)
+* TOEFL: 104 (R27+L23+S26+W28)
 
-GRE: 324 (V155+Q169+W3.5)
+* GRE: 324 (V155+Q169+W3.5)
