@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Summary
-======
-A first-year graduate student who aims to find data scientist internship, with more than one year experience in handling
-data sets using machine learning / deep learning, big data framework and data visualization tools to make data-driven
-decisions. Solid programming skills in Python and SQL and strong written communication and presentation skills.
-
 Education
 ======
 * **University of California, San Diego**                                        
