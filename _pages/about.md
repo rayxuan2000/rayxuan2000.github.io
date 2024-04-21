@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ruize Xuan!
+Hi, I am Ruize Xuan! Welcome to my website!
