@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+[file:///D:/Study folder/Abroad/CV/Ruize_Xuan_Data_Analyst.pdf](CV)
+
 Education
 ======
 * **University of California, San Diego**                                        
