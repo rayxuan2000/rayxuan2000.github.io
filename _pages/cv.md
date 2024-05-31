@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-[file:///D:/Study folder/Abroad/CV/Ruize_Xuan_Data_Analyst.pdf](CV)
+[files/Ruize_Xuan_Data_Analyst.pdf](CV)
 
 Education
 ======
