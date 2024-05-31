@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-[files/Ruize_Xuan_Data_Analyst.pdf](CV)
+[https://github.com/rayxuan2000/rayxuan2000.github.io/blob/cd4415e0e0b17d420aa1efef83e76f81c179842a/files/Ruize_Xuan_Data_Analyst.pdf](CV)
 
 Education
 ======
